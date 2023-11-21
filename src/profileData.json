@@ -1,0 +1,24 @@
+{
+    "backgroundImg": "backgroundImage.jpg",
+    "profileImg": "profileImage.jpg",
+    "userName": "Anuj Gosalia",
+    "followers": 6482,
+    "following": 245,
+    
+    "instagramLink": "https://www.instagram.com/",
+    "blogs": [
+      {
+        "title": "A Changing World Order",
+        "content": "The world is changing at a feverish pace. Friends, collegues and everyone engaged in knowledge work are beginning to sense this, including..."
+      },
+      {
+        "title": "India v/s Australia",
+        "content": "This is the content of the second blog."
+      },
+      {
+        "title": "Write To Build",
+        "content": "Writing is the first step to create :\n -stories \n -products \n -companies"
+      }
+    ]
+  }
+  
